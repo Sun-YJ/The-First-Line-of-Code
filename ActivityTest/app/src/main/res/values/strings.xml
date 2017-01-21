@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityTest</string>
+    <string name="txt_btn1">Button 1</string>
+    <string name="txt_btn2">Button 2</string>
+</resources>
